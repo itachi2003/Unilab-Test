@@ -1,0 +1,81 @@
+ /* BODY */
+ body{
+    background-color: #C6D5FF;
+    max-width: 1920px;
+    max-height: 3037px;
+    
+}
+  /* HEADER  */
+.header{
+    max-width: 1820px;
+    height: 98px;
+    background-color: #C6D5FF;   /* #C6D5FF header color */
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 63.77px;
+    height: 90px;
+    margin-left: 30px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.header-ul{
+    display: flex;
+    width: 539px;
+    height: 63px;
+    background-color: #EBEBEB;
+    margin-right: 80px;
+    margin-top: 18px;
+}
+#active{
+    color: red;
+    text-decoration: underline;
+}
+.home{
+    width: 54px;
+    height: 24px;
+    margin-left: 36px;
+    margin-right: 100px;
+    margin-top: 20px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about{
+    width: 81px;
+    height: 24px;
+    margin-right: 101px;
+    margin-top: 20px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact{
+    width: 98px;
+    height: 24px;
+    margin-right: 69px;
+    margin-top: 20px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    width: 100%;
+    height: 117px;
+    background-color: #7F8094;
+}
+.facebook{
+    margin-left: 1400px;
+}
+.twitter{
+    margin-left: 20px;
+}
+.main{
+    display: flex;
+    width: 1820px;
+    height: 866px;
+}
+.first{
+    margin-top: 30px;
+}
